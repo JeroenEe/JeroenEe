@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/JeroHero"><img src="https://api.daily.dev/devcards/f4fb4343fcd34f95a4af8c4e41c4c570.png?r=ai2" width="400" alt="Jero's Dev Card"/></a>
+
 <!--
 **JeroenEe/JeroenEe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
